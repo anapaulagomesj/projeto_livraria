@@ -1,2 +1,2 @@
-# projeto_livraria
-projeto livraria virtual para a disciplina Engenharia de Software I
+# Estante Digital
+Biblioteca virtual desenvolvida para a disciplina Engenharia de Software I.
